@@ -20,9 +20,8 @@
       test(){
         console.log('现在是第一版本v1')
 
-        console.log('看看现在是在哪个分支？主')
-        console.log('v1.0===>main')
-        console.log('v1.0===>main??')
+        console.log('看看现在是在哪个分支？v1.0')
+
       }
     }
   };

@@ -13,6 +13,11 @@ export default {
   name: "Home",
   components: {
     HelloWorld
+  },
+  methods:{
+    test(){
+      console.log('将v1.0合并到main上')
+    }
   }
 };
 </script>
