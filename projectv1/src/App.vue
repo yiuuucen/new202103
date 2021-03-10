@@ -6,6 +6,24 @@
   <router-view />
 </template>
 
+<script>
+
+
+  export default {
+    name: "Home",
+    data(){
+      return {
+
+      }
+    },
+    methods:{
+      test(){
+        console.log('现在是第一版本v1')
+      }
+    }
+  };
+</script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
