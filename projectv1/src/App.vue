@@ -19,6 +19,7 @@
     methods:{
       test(){
         console.log('现在是第一版本v1')
+        console.log('看看现在是在哪个分支？主')
       }
     }
   };
