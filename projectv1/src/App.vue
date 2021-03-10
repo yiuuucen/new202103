@@ -19,6 +19,8 @@
     methods:{
       test(){
         console.log('现在是第一版本v1')
+
+        console.log('随便改点')
       }
     }
   };
